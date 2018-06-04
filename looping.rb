@@ -1,6 +1,6 @@
 def looping
   i = 0
-do until i == 10
+do i == 10
 puts "Bingardium Leviosa"
 i += 1
 end
