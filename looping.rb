@@ -1,7 +1,8 @@
 def looping
   i = 0
-do i == 10
+do 
 puts "Bingardium Leviosa"
+until i == 10
 i += 1
 end
 puts "Wingardium Leviosa"
