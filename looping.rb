@@ -1,11 +1,7 @@
 def looping
-  i = 0
-do 
-puts "Bingardium Leviosa"
-until i == 10
-i += 1
-end
+do
 puts "Wingardium Leviosa"
+end
 end
 
 #call your method here
